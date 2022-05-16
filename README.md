@@ -4,7 +4,8 @@
 Fiz transição de carreira e tive a oportunidade de estagiar na área de automação e dados no Itaú Unibanco, lá tive contato com algumas linguagens: 
 ✨ Html, Bootstrap, Javascrip, C# básico, dotNet básico , WebAssembly básico, Arquitetura MVC, porém comecei a me desenvolver na área de dados, onde eu me indentifiquei e decidi seguir carreira;
 
-✨ Atualmente estudando para me desenvolver na área de Análise de Dados.
+
+
 
 😄 Pronome: Ela/Dela.
 
